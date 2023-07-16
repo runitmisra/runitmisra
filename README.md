@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runitmisra&label=Profile%20views&color=0e75b6&style=flat" alt="runitmisra" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes Operators**, **Go** and **Rust**
 
 - 💬 Ask me about **anything, happy to help and learn!**
 
