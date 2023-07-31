@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything, happy to help and learn!**
 
-- 📫 How to reach me **misra.runit@gmail.com**
+- [Check out my Blog!](https://www.runitmisra.in)
 
 
 <h3 align="left">Languages and Tools:</h3>
