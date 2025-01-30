@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Runit Misra</h1>
-<h3 align="center">A passionate Site Reliability Engineer from India</h3>
+<h3 align="center">Senior Platform Engineer at AlphaSense India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runitmisra&label=Profile%20views&color=0e75b6&style=flat" alt="runitmisra" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes Operators**, **Go** and **Rust**
 
 - 💬 Ask me about **anything, happy to help and learn!**
-
-- [Check out my Blog!](https://www.runitmisra.in)
 
 
 <h3 align="left">Languages and Tools:</h3>
